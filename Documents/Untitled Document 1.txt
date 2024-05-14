@@ -1,0 +1,29 @@
+color highlight
+prettier - code formatter
+auto close tag
+auto rename tag
+rainbow brackets
+code runner
+codesnap
+css peek
+error lens
+fast arrow
+indent-rainbow
+intellisense for css class names in html
+live server
+live server preview
+monokai pro
+bootstrap intellisense
+JavaScritp
+Material Icon Theme
+git graph
+git History
+gitlens
+https://pixabay.com/api/?key=41911933-b1b5cda18a9e20d0315aa3b3e&?q=pokemon&per_page=150
+https://www.i18next.com/overview/getting-started
+
+https://vscode.dev/profile/github/dd3f3888f7a9c3ca24d52c7dd132cada
+
+
+https://vscode.dev/profile/github/b4bd85a9c8cf566026b34382bda088ed
+https://vscode.dev/editor/profile/github/590d91f6b9e9c8b96a64f4af1fce3be1
